@@ -11,14 +11,14 @@
 <body>
     
     <header>
-        <a href="/"><img class="logo" src="images/IV(white).png"></a>
+        <a class="logo__a" href="/LiveLib/"><img class="logo" src="images/IV(white).png"></a>
         <div class="div__search">
             <input class="search__input" type="text" placeholder="Search...">
-            <button class="search__btn"><img class="search__btn__img" src="/images/magnifier.png" alt=""></button>
+            <button class="search__btn"><img class="search__btn__img" src="images/magnifier.png"></button>
         </div>
             
         <nav class="navigation">
-            <a class="header__a" href="/">Home</a>
+            <a class="header__a" href="/LiveLib/">Home</a>
             <a class="header__a" href="#">What's new</a>
             <a class="header__a" href="#">Authors</a>
             <a class="header__a" href="#">Genres</a>
