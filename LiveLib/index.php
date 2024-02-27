@@ -9,6 +9,4 @@
         </div>
     </section>
 
-    <div style="width: calc(1400px + 1vw); height: 1000px; border: 1px solid #fff;"></div>
-
 <?php require_once "footer.php"; ?>
