@@ -23,7 +23,8 @@
             <a class="header__a" href="#">Authors</a>
             <a class="header__a" href="#">Genres</a>
             <a class="header__a" href="#">About Service</a>
-            <a href="login__form.php"><button id="login__btn" class="navigation__btn">Login</button></a>
         </nav>
+
+        <a href="login__form.php"><button id="login__btn" class="navigation__btn">Login</button></a>
     </header>
     
