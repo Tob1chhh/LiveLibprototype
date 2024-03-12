@@ -11,10 +11,10 @@
 <body>
     
     <header>
-        <a class="logo__a" href="/LiveLib/"><img class="logo" src="images/IV(white).png"></a>
+        <a class="logo__a" href="/LiveLib/"><img class="logo" src="images/IV(white).png" alt="Logo"></a>
         <div class="div__search">
             <input class="search__input" type="text" placeholder="Search...">
-            <button class="search__btn"><img class="search__btn__img" src="images/magnifier.png"></button>
+            <button class="search__btn"><img class="search__btn__img" src="images/magnifier.png" alt="#"></button>
         </div>
             
         <nav class="navigation">
